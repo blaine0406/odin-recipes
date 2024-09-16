@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+img {
+    border-radius: 25px;
+    display: block;
+    height: auto;
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+}

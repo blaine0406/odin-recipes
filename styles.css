@@ -1,9 +1,33 @@
 * {
-    background-color: grey;
+    background-color: black;
     box-sizing: border-box;
 }
 
-h1 {
+.box1 *{
     text-align: center;
-    font-size: 32px;
+    background-color: transparent;
+}
+
+.box2 *{
+    background-color: transparent;
+}
+
+.box1 {
+    background-color: aqua;
+    border: 1px;
+    border-radius: 25px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.box2 {
+    background-color: red;
+    padding: 30px;
+    border-radius: 25px;
+    color: white;
+    
+}
+
+a {
+    color: white;
 }
